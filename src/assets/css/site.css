@@ -35,3 +35,16 @@
 .prose,.prose p,.prose li,.prose ul,.prose ol,.prose strong,.prose em,.prose span,.prose h2,.prose h3,.prose h4,.prose a,.prose a:hover,.prose th,.prose td,.prose blockquote,.prose blockquote p,.prose code{color:#111111}
 .prose pre,.prose pre code{color:#f4f1ea}
 .prose .card--blue,.prose .card--blue *{color:#f4f1ea}
+
+/* Keep the navigation above decorative artwork. */
+.masthead {
+  position: relative;
+  z-index: 10;
+}
+
+/* Keep the homepage artwork inside its own section. */
+.intro {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
