@@ -1,0 +1,16 @@
+{
+  "name": "margin-signals",
+  "version": "1.0.0",
+  "description": "An independent journal of writing, games, and curious things.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.7",
+    "@11ty/eleventy-plugin-rss": "^3.1.0",
+    "markdown-it": "^15.0.3"
+  },
+  "private": true,
+  "type": "module"
+}
