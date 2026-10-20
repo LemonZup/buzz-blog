@@ -1,6 +1,6 @@
 ---
 title: "An introduction to DISREGARD FURTHER INSTRUCTIONS"
-deck: "DISREGARD FURTHER INSTRUCTIONS, my first proper unique project"
+deck: "DISREGARD FURTHER INSTRUCTIONS, Contractors sent into weird and peculiar dungeons with familiar modern architecture. Inhabited by the oddities of a dimension beyond."
 date: "2026-10-18"
 category: "DFI"
 sample: true
