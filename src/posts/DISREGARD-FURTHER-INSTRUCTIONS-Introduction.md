@@ -57,7 +57,7 @@ I am also providing a few decent previews of the Supervisor pages, which will be
   style="width: 100%; height: auto;"
 >
 
-This section is meant to be more strange, and it took a lot of me searching a bunch of various graphic design styles to set on this weird look. Largely inspired by ideas I saw from New Wave, Swiss Punk, and Neo-Psychedelia as the final touch resulting in all the wibbly wobbly waves and distortions. A bit of marathon also leaked in, especially with the prominent acidic green coloring used for a lot of parts.
+This section is meant to be more strange, and it took a lot of me searching a bunch of various graphic design styles to set on this weird look. Largely inspired by ideas I saw from New Wave, Swiss Punk, and Neo-Psychedelia as the final touch resulting in all the wibbly wobbly waves and distortions. A bit of marathon also leaked in, especially with the prominent acidic green coloring used for a lot of parts. It's also the basis for this blog's new look, though this blog will stay more toned down for extra readability and compatibility!
 
 It is meant to stand in sharp contrast to the rest of the toned down player-facing book, slamming the gas pedal and charging straight into the odd and peculiar.
 
